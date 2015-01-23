@@ -1,0 +1,9 @@
+# Site settings
+title: Organization Website
+email: autonomi@ducic.ac.in
+description: This is the organization profile..
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://autonomi.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
